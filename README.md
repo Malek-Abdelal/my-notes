@@ -3,7 +3,7 @@
 # Introduction about me
 My name is Malek, I am a Computer Engineer, passionate about Hacking and Software development.
 
-## Outecomes of today lecture
+## Outecomes of today's lecture
 
 I have learned many interesting subjects today, includes:
 
