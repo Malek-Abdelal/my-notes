@@ -1,4 +1,3 @@
-# my-notes
 
 # Introduction about me
 My name is Malek, I am a Computer Engineer, passionate about Hacking and Software development.
